@@ -1,5 +1,7 @@
 # Crud-larabel-vue
 Este es un crud hecho con con larabel y vue js, sa manejo MVC para crear la parte del back-end y el front-end fue solo en vue js.
+
+
 [![Vista-1.jpg](https://i.postimg.cc/htd5kPp0/Vista-1.jpg)](https://postimg.cc/dhJ6dvM7)
 
 Foto 1("Vista inicial")
